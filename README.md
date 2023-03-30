@@ -1,4 +1,4 @@
-# Sem 7 Machine Learning Cousre Assignment
+# Sem 7 Machine Learning Course Assignment
 
 Contents of each lab tutorial :
 1) Basics of Python and Numpy
